@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Potiza",
+    "slug": "potiza",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.wandersonie.potiza",
+      "adaptiveIcon": {
+        "backgroundColor": "#101826"
+      }
+    }
+  }
+}
